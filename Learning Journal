@@ -1,1 +1,46 @@
+# July 21, 2026
 
+## Goal
+
+Become familiar with a new ERP application before starting formal testing.
+
+## Activities
+
+- Reviewed the ClickUp project.
+- Observed how bugs are documented.
+- Identified that the project uses ClickUp for issue tracking.
+- Noted there is currently one reported bug.
+
+## What I Learned
+
+A QA engineer should first understand the application's structure before executing tests.
+
+## Next Steps
+
+- Explore the ERP modules.
+- Identify critical business workflows.
+- Draft a test strategy.
+
+
+Project: ERP
+
+Module:
+Login
+
+Time:
+2 hours
+
+Activities:
+- Explored the login page
+- Tested valid and invalid credentials
+- Checked password visibility toggle
+- Tested session timeout
+
+Bugs Found:
+- None
+
+Questions:
+- Is "Remember Me" expected to keep the session after browser restart?
+
+Next Session:
+- Test password reset
